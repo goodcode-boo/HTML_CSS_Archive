@@ -16,7 +16,7 @@
 
 <br><br>
 
-<div align=center>
+<div align=right>
 
 #### 📚 STACK
 
@@ -24,7 +24,7 @@
 
 </div>
 
-<div align=center>
+<div align=right>
 
 #### ❤️ HITS
 
