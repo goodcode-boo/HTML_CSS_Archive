@@ -1,5 +1,7 @@
 # 💾 HTML / CSS 저장소
 
+<br>
+
 <div align=center>
 
 #### 📚 STACK
@@ -23,10 +25,10 @@
 
 <br><br>
 
-<center>
+<div align=center>
 
 #### ❤️ HITS
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgoodcode-boo%2FHTML_CSS_Archive&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
-</center>
+</div>
