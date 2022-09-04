@@ -15,11 +15,11 @@
 
 <br>
 
-## 👍 [HTML 저장소](html.md)
+### 👍 [HTML 저장소](html.md)
 
 <br>
 
-## 👍 [CSS 저장소](css.md)
+### 👍 [CSS 저장소](css.md)
 
 <br>
 
