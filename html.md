@@ -1,5 +1,7 @@
 # HTML(Hyper Text Markup Langauge)
 
+<br>
+
 ## - HTML Tag Basic Syntax
 
 ### 1. 기본 형식
@@ -47,6 +49,8 @@
 <!-- 주석입니다 -->
 ```
 
+<br>
+
 ## - HTML Basic Construction
 
 ```
@@ -59,6 +63,8 @@
     </body>
 </html>
 ```
+
+<br>
 
 ## - HTML TAG
 
@@ -81,6 +87,8 @@
 
 - 아무 지칭하는 바, 의미가 없는 태그입니다.
 - div, p, ...
+
+<br>
 
 ## - HTML 주요 태그
 
@@ -138,7 +146,9 @@ label 태그는 input 태그의 라벨을 붙을 때 사용합니다.
 1. 줄바꿈 : X
 2. 기본 너비 : 콘텐츠 너비
 
-## 태그에 이름 짓는 법
+<br>
+
+## - 태그에 이름 짓는 법
 
 - ID : 고유한 element를 사용할 때 적용합니다.
 - Class : 고유하지 않은, 계속 반복되느 element의 경우 적용합니다.
