@@ -2,7 +2,7 @@
 
 <br>
 
-## - HTML Tag Basic Syntax
+## ⚡ HTML Tag Basic Syntax
 
 ### 1. 기본 형식
 
@@ -51,7 +51,7 @@
 
 <br>
 
-## - HTML Basic Construction
+## ⚡ HTML Basic Construction
 
 ```
 <html>
@@ -66,7 +66,7 @@
 
 <br>
 
-## - HTML TAG
+## ⚡ HTML TAG
 
 ```
 <name attribute="value"> content </name>
@@ -90,7 +90,7 @@
 
 <br>
 
-## - HTML 주요 태그
+## ⚡ HTML 주요 태그
 
 ### 1. h1, h2, h3, h4, h5, h6
 
@@ -148,7 +148,7 @@ label 태그는 input 태그의 라벨을 붙을 때 사용합니다.
 
 <br>
 
-## - 태그에 이름 짓는 법
+## ⚡ 태그에 이름 짓는 법
 
 - ID : 고유한 element를 사용할 때 적용합니다.
 - Class : 고유하지 않은, 계속 반복되느 element의 경우 적용합니다.
